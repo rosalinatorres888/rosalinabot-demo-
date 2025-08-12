@@ -37,7 +37,7 @@ This interactive demo showcases my ability to build intelligent systems that are
 1. Fork this repository
 2. Go to Settings → Pages
 3. Select "Deploy from a branch" → main
-4. Your demo will be live at `https://yourusername.github.io/rosalinabot-demo`
+4. Your demo will be live at `https://rosalinatorres888.github.io/rosalinabot-demo`
 
 ### Option 2: Local Development
 ```bash
