@@ -13,7 +13,6 @@ This interactive demo showcases my ability to build intelligent systems that are
 **Created by:** Rosalina Torres  
 **Role:** Data Analytics Engineering MS Candidate  
 **University:** Northeastern University (4.0 GPA)  
-**Experience:** 13 years in technology  
 
 ## ✨ Features
 
@@ -82,27 +81,6 @@ rosalinabot-demo/
 └── LICENSE             # MIT License
 ```
 
-## 🎯 Key Highlights
-
-### AI Logic Implementation
-- **Natural Language Processing** - Pattern matching and contextual understanding
-- **Response Generation** - Intelligent replies based on user input
-- **Memory System** - Maintains conversation context
-- **Personalization** - Adapts responses to user configuration
-
-### Technical Excellence
-- **Zero Dependencies** - Pure JavaScript implementation
-- **Mobile-First Design** - Responsive across all devices
-- **Performance Optimized** - Fast loading and smooth interactions
-- **SEO Friendly** - Semantic HTML and proper meta tags
-
-## 💼 Real-World Applications
-
-This demo showcases skills applicable to:
-- **Enterprise Chatbots** - Customer service automation
-- **Educational Tools** - Interactive learning assistants
-- **Portfolio Websites** - Personal branding and engagement
-- **Business Applications** - Internal communication tools
 
 ## 🔧 Customization
 
@@ -157,13 +135,6 @@ This demo showcases skills applicable to:
 - **GitHub:** [github.com/rosalinatorres888](https://github.com/rosalinatorres888)
 - **Email:** torres.ros@northeastern.edu
 
-## 🎯 Seeking Opportunities
-
-**Summer 2025 ML/AI Internships**
-- Machine Learning Engineering
-- Data Science and Analytics
-- AI Product Development
-- Research and Development
 
 ## 📝 License
 
